@@ -30,3 +30,5 @@ console.log(nome)
 
 //case-sensitive 
 // Não podemos redeclara utilizando LET
+
+// Não utilize VAR , Utilize LET
