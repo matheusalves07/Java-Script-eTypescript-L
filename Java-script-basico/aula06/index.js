@@ -29,3 +29,4 @@ console.log(nome)
 // Utilizamos camelCase
 
 //case-sensitive 
+// Não podemos redeclara utilizando LET
