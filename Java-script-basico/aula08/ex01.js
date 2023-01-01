@@ -4,7 +4,7 @@
 
 const nome = 'Matheus';
 const sobrenome = ' Alves Castro';
-const idade = 27;
+const idade = 26;
 const  peso = 65;
 const altura = 1.70;
 let IMC = peso/(altura*altura)
