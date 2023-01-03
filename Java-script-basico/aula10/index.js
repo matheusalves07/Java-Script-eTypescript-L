@@ -21,3 +21,4 @@ console.log (typeof num1,num1 );
 
 
 
+
