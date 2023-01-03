@@ -21,3 +21,7 @@ console.log (typeof num1,num1 );
 
 
 
+
+var n1=2
+var n2=2
+console.log(n1+n2*4 ,"renata é linda")
