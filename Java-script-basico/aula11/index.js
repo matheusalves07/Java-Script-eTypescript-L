@@ -28,7 +28,7 @@ console.log(contador)*/
 
 //const passo = 50;
 let contador = 2; 
-contador *=2 ; // contador  = contador + passo
+contador *=10 ; // contador  = contador + passo
 
 console.log(contador);
 
