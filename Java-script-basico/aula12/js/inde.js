@@ -11,5 +11,4 @@ const resultado = num1 + num2;
 
 alert (`${nome} A soma de ${num1} + ${num2} foi ${resultado}`);
 
-
 //
