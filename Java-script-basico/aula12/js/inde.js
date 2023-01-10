@@ -10,5 +10,6 @@ console.log(typeof num1,typeof num2);
 const resultado = num1 + num2;
 
 alert (`${nome} A soma de ${num1} + ${num2} foi ${resultado}`);
+alert(`O resultado foi ${num1+ num2}`)
 
 //
