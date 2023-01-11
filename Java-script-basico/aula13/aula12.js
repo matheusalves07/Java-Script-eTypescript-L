@@ -8,6 +8,7 @@ varB = varC; //C
 varC = A; //*/
 
 
+
 [varA, varB, varC] = [varB, varC, varA]
 
 console.log(varA, varB, varC);
