@@ -8,12 +8,34 @@
 </head>
 <body>
 
+<h1>oi</h1>
 
 
+<script >
 
-<script src="ex01.js">
+const nome = prompt ('Digite seu nome completo');
 
-    
+window.document.body.innerHTML = `Olá ${nome} <br> `;
+
+// += incremente inserções
+
+window.document.body.innerHTML += `O seu nome <strong>${nome}</strong><br>`;
+
+window.document.body.innerHTML += `seu nome tem ${nome.length} letras <br>`;
+
+window.document.body.innerHTML += `a seunda letra do seu nome é ${nome[1]} <br>`;
+
+window.document.body.innerHTML += `qual o primeiro índice da letra  no seu nome ? ${nome.indexOf('a')} <br>`;
+
+window.document.body.innerHTML += `qual o últiimo indice d letra  no seu nome ? ${nome.lastIndexOf('a')}<br>`;
+
+window.document.body.innerHTML += `as últimas 3 letras do seu nome são ${nome.slice(-3)} <br>`;
+
+window.document.body.innerHTML += `as palavras do seu nome são ${nome.split(' ')} <br>`;
+
+window.document.body.innerHTML += `seu nome com letras maiúsculas ${nome.toUpperCase()} <br>`;
+
+window.document.body.innerHTML += `seu nome com letras minúsculas ${nome.toLowerCase()}<br>`;
 </script>    
 </body>
 </html>
