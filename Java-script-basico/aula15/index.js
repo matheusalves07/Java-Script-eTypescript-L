@@ -11,6 +11,7 @@ num1 = Number(num1.toFixed(2)); // melhor solução
 
 
 
+
 //num1 = Number(num1.toFixed(2)) ; // podendo usar parseFloat
 
 
