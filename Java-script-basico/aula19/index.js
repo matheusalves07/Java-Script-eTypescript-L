@@ -25,6 +25,19 @@ console.log(resultado);*/
 
 
 
-const raiz = function (){
-
+const raiz = function (n){
+return n ** 0.5;
 };
+
+console.log(raiz(25));
+console.log(raiz(16));
+console.log(raiz(144));
+
+
+// hero functio =>
+
+
+const raizi =(z) => {
+    return z * 3 ;
+}
+console.log(raizi(2));
