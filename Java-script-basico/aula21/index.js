@@ -12,6 +12,7 @@
  Referência (mutável) - Arrays, Objetos, funções   
 */
 
+
 const a = {
     nome: 'luiz',
     sosbrenome: 'Alves'
