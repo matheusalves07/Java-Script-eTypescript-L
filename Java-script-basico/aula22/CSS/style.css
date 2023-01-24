@@ -3,3 +3,16 @@
 body{
     
 }
+
+form {
+    margin-left: 20vw;
+    margin-top: 25vh;
+}
+button{
+    padding: 10px;
+    margin-left: 5vw;
+}
+
+@media screen {
+    
+}
