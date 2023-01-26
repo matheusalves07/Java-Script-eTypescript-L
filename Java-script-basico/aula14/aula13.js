@@ -9,3 +9,4 @@ console.log(umString.replace(/texto/g,'outra')) //alteração  por outro element
 console.log(umString.length); // tamanho da string
 console.log(umString.slice(2,8))
 
+
