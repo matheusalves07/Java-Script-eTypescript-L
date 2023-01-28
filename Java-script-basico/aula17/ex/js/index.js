@@ -14,8 +14,6 @@ Raiz quadrada:
 numeroTitulo.innerHTML =  numero;
 texto.innerHTML = '';
 
-
-
 texto.innerHTML = `<p>Raiz quadra é ${numero ** 0.5}</p><br>`;
 texto.innerHTML += `<p>${numero} é inteiro: ${Number.isInteger(numero)}</p><br>`;
 texto.innerHTML += `<p>${numero} é NaN: ${Number.isNaN(numero)}</p><br>`;
