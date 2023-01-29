@@ -1,3 +1,3 @@
 # Java Script eTypescript 
  
-aulas e exercícios 
+aulas e exercícios usando js, node , typ script
