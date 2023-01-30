@@ -23,3 +23,4 @@ texto.innerHTML += `<p>${numero} éCom duas casa decimas ${numero.toFixed(2)}</p
 
 
 
+
