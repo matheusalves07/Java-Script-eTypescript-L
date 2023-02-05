@@ -25,11 +25,10 @@ function(e) {
     const nivelImc = getNivelImc (imc);
 
     const msg = `Seu IMC é ${imc} e seu nível é ${nivelImc}` ;
-    
+
      setResultado(msg, true) ;
 
 });
-
 
 function getNivelImc (imc){
     const nivel = ['Abaixo do peso', 'peso normal','sobrepeso', 'Obesidade Grau 1', 'Obesidade Grau 2 ', 'Obesidadee Grau 3'];
