@@ -40,7 +40,6 @@ function getNivelImc (imc){
     if (imc >= 18.5) return nivel[1];
     if ( imc < 18  ) return nivel [0];
     
-
 }
 
 function getImc (peso , altura){
