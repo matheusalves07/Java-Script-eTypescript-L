@@ -17,7 +17,6 @@ formato ( ano , mes , dia , hora ,minuto e segunto)
 
 const data = new Date(2019,3,20,15,14,27);*/
 
-
 /*const data = new Date ('2019-04-20T20:20:59');
 
 console.log('Dia', data.getDate())
