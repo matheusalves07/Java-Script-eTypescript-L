@@ -25,7 +25,7 @@ body{
 
 }
 
-.container {
+#container {
     border-radius: 10px;
     box-shadow: 01px 4px 10px rgba(255, 255, 255, 0.468);
     max-width: 640px;
@@ -34,6 +34,14 @@ body{
     padding: 20px;
    
 }
+h1{
+    color: var(--primary-color-dark);
+    text-shadow: 10px 10px solid black;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 500;
+}
+
 
 form input, form label, form button {
     height: 40px;
