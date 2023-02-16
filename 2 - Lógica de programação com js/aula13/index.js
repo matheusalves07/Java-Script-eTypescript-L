@@ -10,6 +10,7 @@ const pessoa = {
     }
 };
 
+
 const { nome: n = "", sobrenome, idade } = pessoa;
 console.log(n, sobrenome, idade);
 const {endereco: {rua, numero}, endereco} =pessoa;
