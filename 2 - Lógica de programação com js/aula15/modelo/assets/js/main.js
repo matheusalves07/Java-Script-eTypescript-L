@@ -3,6 +3,7 @@ const elementos = [
     {tag: 'div', texto: 'Frase 2'},
     {tag: 'footer', texto:'Frase 3'},
     {tag: 'section', texto: 'Frase 4'},
+    {tag: 'h2', texto: 'Frase 5'},
 ];
 
 const container = document.querySelector('.container');
