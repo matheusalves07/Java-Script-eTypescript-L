@@ -15,8 +15,7 @@ for (let i = 0; i < elementos.length;i ++){
     let textoCirado = document.createTextNode(texto);
     tagCriada.appendChild(textoCirado);
     //tagCriada.innerText = texto;
-    div.appendChild(tagCriada);
-    
+    div.appendChild(tagCriada);   
 };
 
 container.appendChild(div);
