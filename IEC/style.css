@@ -71,7 +71,9 @@ div#logo{
     border: solid #f2f2f2;
   }
   .button:hover{
-    background-color: #ffff; /*  */
+    background-color: #ffff; 
+    
+    /*  */
     border: none;
     color: #423FA6;;
     padding: 15px 32px;
